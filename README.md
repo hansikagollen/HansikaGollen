@@ -3,13 +3,14 @@ I'm Hansika Gollen, a 3rd-year Information Technology student at CBIT, passionat
 
 Skilled in: Python, Java, and Artficial Intelligence and Machine Learning.
 Exploring: The fascinating world of AI/ML with hands-on projects in machine learning and beyond.
+
 Connect with me:
 
 LinkedIn:https://www.linkedin.com/in/hansikagollen/
 Email: hansikagollen@gmail.com
 
 💻 Tech Stack:
-HTML5 | Java | Python | JavaScript | CSS| Problem solving| Object Oriented Programming 
+HTML5 | Java | Python | JavaScript | CSS| Problem solving| Object Oriented Programming |Machine Learning
 
 <!--
 **hansikagollen/HansikaGollen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
