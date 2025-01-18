@@ -2,6 +2,7 @@
 I'm Hansika Gollen, a 3rd-year Information Technology student at CBIT, passionate about coding and innovation.
 
 Skilled in: Python, Java, and Artficial Intelligence and Machine Learning.
+
 Exploring: The fascinating world of AI/ML with hands-on projects in machine learning and beyond.
 
 Connect with me:
