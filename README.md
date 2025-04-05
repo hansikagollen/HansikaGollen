@@ -11,7 +11,7 @@ LinkedIn:https://www.linkedin.com/in/hansikagollen/
 Email: hansikagollen@gmail.com
 
 💻 Tech Stack:
-HTML5 | Java | Python | JavaScript | CSS| Problem solving| Object Oriented Programming |Machine Learning
+HTML5 | Java | Python | JavaScript | CSS| Problem solving| Object Oriented Programming |Machine Learning|Data Structures and Algorithms|Deep Learning
 
 <!--
 **hansikagollen/HansikaGollen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
