@@ -13,6 +13,9 @@ Email: hansikagollen@gmail.com
 💻 Tech Stack:
 HTML5 | Java | Python | JavaScript | CSS| Problem solving| Object Oriented Programming |Machine Learning|Data Structures and Algorithms|Deep Learning
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
 <!--
 **hansikagollen/HansikaGollen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
