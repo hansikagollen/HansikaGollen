@@ -16,7 +16,6 @@ HTML5 | Java | Python | JavaScript | CSS| Problem solving| Object Oriented Progr
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HansikaGollen&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HansikaGollen&layout=compact&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=HansikaGollen&theme=radical)](https://git.io/streak-stats)
 
 
 
