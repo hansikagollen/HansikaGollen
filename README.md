@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Hansika Gollen
 
-🎓 **Third-Year Information Technology Student**  
+🎓 **Fourth-Year Information Technology Student**  
 📍 Chaitanya Bharathi Institute of Technology (CBIT)  
 💡 Passionate about **coding, innovation, and building impactful tech solutions**
 
