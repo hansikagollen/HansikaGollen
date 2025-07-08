@@ -1,23 +1,56 @@
-👋 Hi there!
-I'm Hansika Gollen, a 3rd-year Information Technology student at CBIT, passionate about coding and innovation.
+# 👋 Hi there! I'm Hansika Gollen
 
-Skilled in: Python, Java, and Artficial Intelligence and Machine Learning.
+🎓 **Third-Year Information Technology Student**  
+📍 Chaitanya Bharathi Institute of Technology (CBIT)  
+💡 Passionate about **coding, innovation, and building impactful tech solutions**
 
-Exploring: The fascinating world of AI/ML with hands-on projects in machine learning and beyond.
+---
 
-Connect with me:
+## 👩‍💻 About Me
 
-LinkedIn:https://www.linkedin.com/in/hansikagollen/
-Email: hansikagollen@gmail.com
-
-💻 Tech Stack:
-HTML5 | Java | Python | JavaScript | CSS| Next.js| Express.js| Problem solving| Object Oriented Programming | Machine Learning| Data Structures and Algorithms| Deep Learning
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HansikaGollen&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HansikaGollen&layout=compact&theme=radical)
+I'm a 3rd-year Information Technology student at CBIT, passionate about coding and creative problem-solving.  
+I enjoy working with Python, Java, and exploring the world of AI/ML through hands-on projects.  
+Currently diving deeper into full-stack development using Next.js and Express.js.  
+Always eager to learn, build, and collaborate on meaningful tech solutions.
 
 
+---
+
+## 🛠️ Tech Stack & Skills
+
+- **Languages**: Python | Java | JavaScript | HTML5 | CSS  
+- **Frameworks/Libraries**: Next.js | Express.js  
+- **Core Concepts**: Data Structures & Algorithms | Object-Oriented Programming  
+- **AI/ML**: Machine Learning | Deep Learning | Model Training & Evaluation  
+- **Other**: Problem Solving | Git & GitHub | REST APIs  
+
+---
+
+## 🚀 Currently Exploring
+
+- Hands-on projects in **AI/ML**, such as image classification, NLP, and model deployment  
+- Building scalable **web applications** with modern JavaScript frameworks  
+- Enhancing problem-solving skills through coding platforms and competitions
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/hansikagollen/)  
+- 📧 Email: hansikagollen@gmail.com  
+
+---
+
+## 📊 GitHub Stats
+
+![Hansika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HansikaGollen&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HansikaGollen&layout=compact&theme=radical)
+
+---
+
+## 🌟 Fun Fact
+
+> I believe that curiosity is the spark behind every great invention — and I’m always excited to learn, build, and collaborate with like-minded tech enthusiasts!
 
 <!--
 **hansikagollen/HansikaGollen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
