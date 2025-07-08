@@ -48,9 +48,6 @@ Always eager to learn, build, and collaborate on meaningful tech solutions.
 
 ---
 
-## 🌟 Fun Fact
-
-> I believe that curiosity is the spark behind every great invention — and I’m always excited to learn, build, and collaborate with like-minded tech enthusiasts!
 
 <!--
 **hansikagollen/HansikaGollen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
