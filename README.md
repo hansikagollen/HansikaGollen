@@ -8,7 +8,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a 3rd-year Information Technology student at CBIT, passionate about coding and creative problem-solving.  
+I'm a 4th-year Information Technology student at CBIT, passionate about coding and creative problem-solving.  
 I enjoy working with Python, Java, and exploring the world of AI/ML through hands-on projects.  
 Currently diving deeper into full-stack development using Next.js and Express.js.  
 Always eager to learn, build, and collaborate on meaningful tech solutions.
