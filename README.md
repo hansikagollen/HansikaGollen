@@ -21,7 +21,7 @@ Always eager to learn, build, and collaborate on meaningful tech solutions.
 - **Languages**: Python | Java | JavaScript | HTML5 | CSS  
 - **Frameworks/Libraries**: Next.js | Express.js  
 - **Core Concepts**: Data Structures & Algorithms | Object-Oriented Programming  
-- **AI/ML**: Machine Learning | Deep Learning | Model Training & Evaluation  
+- **AI/ML**: Machine Learning | Deep Learning | Artificial Intelligence 
 - **Other**: Problem Solving | Git & GitHub | REST APIs  
 
 ---
